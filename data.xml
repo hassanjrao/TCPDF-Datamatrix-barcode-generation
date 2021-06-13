@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ted:TP-1D xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:ted="http://www.revenuquebec.ca/T3" versionSchéma="2020-11-02" annéeImpot="2020" xsi:schemaLocation="http://www.revenuquebec.ca/T3">
+  
+  <Transmission>
+    <DateTransm>2021-04-16</DateTransm>
+    <HeureTransm>18:16:04</HeureTransm>
+    <NoTransm>000001001</NoTransm>
+  </Transmission>
+
+  <Declaration noSeqDecl="0001">
+
+    <InfoDeclaration>
+      <NoControleDecl>
+        <NoPrep>Z0000</NoPrep>
+      </NoControleDecl>
+      <NoSerieLogcl>99999</NoSerieLogcl>
+      <CodeCertification>RQ20-IP999</CodeCertification>
+      <IdPartenaire>0000000000000F32</IdPartenaire>
+      <IdProduit>0000000000002531</IdProduit>
+      <NoVersionLogcl>2021-03-13</NoVersionLogcl>
+      <NoCasEssai>IMP_2020_IP_001</NoCasEssai>
+    </InfoDeclaration>
+
+    <Formulaire_TP-1D>
+
+      <TP-1D_Particulier>
+
+        <TP1>Fortin</TP1>
+        <TP2>Sébastien</TP2>
+        <TP4>1</TP4>
+        <TP6>1973-02-16</TP6>
+        <TP702>301</TP702>
+        <TP703>Couture</TP703>
+        <TP801>Jonquière</TP801>
+        <TP802>QC</TP802>
+        <TP9>G4A3K6</TP9>
+        <TP10>N</TP10>
+        <TP11>245462502</TP11>
+        <TP12>1</TP12>
+        <TP498>4185357512</TP498>
+
+        <Informations_financieres>
+          <G34>21300.00</G34>
+          <TP24>1</TP24>
+          <TP98>2508.70</TP98>
+          <TP981>47512.26</TP981>
+          <TP101>47512.26</TP101>
+          <F50280>558.91</F50280>
+          <F54780>46576.10</F54780>
+          <TP130>4500.00</TP130>
+          <TP139>12700.00</TP139>
+          <TP199>64712.26</TP199>
+          <TP201>1190.00</TP201>
+          <TP205>2037.51</TP205>
+          <TP214>15000.00</TP214>
+          <F24500>15000.00</F24500>
+          <TP248>132.04</TP248>
+          <TP2481>01</TP2481>
+          <F23600>41932.14</F23600>
+          <TP254>18359.55</TP254>
+          <TP256>46352.71</TP256>
+          <TP275>46352.71</TP275>
+          <TP279>46352.71</TP279>
+          <TP299>46352.71</TP299>
+          <TP359>15532.00</TP359>
+          <TP377>15532.00</TP377>
+          <TP3771>2329.80</TP3771>
+          <TP381>3251.92</TP381>
+          <TP388>3251.92</TP388>
+          <TP389>650.38</TP389>
+          <TP3971>424.41</TP3971>
+          <TP397>42.44</TP397>
+          <TP397A>CSN</TP397A>
+          <TP399>3022.62</TP399>
+          <TP401>7043.29</TP401>
+          <TP406>3022.62</TP406>
+          <TP413>4020.67</TP413>
+          <TP430>4020.67</TP430>
+          <TP432>4020.67</TP432>
+          <TP446>20.30</TP446>
+          <TP449>14</TP449>
+          <TP450>4040.97</TP450>
+          <TP451>4672.89</TP451>
+          <TP4512>4672.89</TP4512>
+          <TP465>4672.89</TP465>
+          <TP468>4672.89</TP468>
+          <TP470T>-631.92</TP470T>
+          <TP474>631.92</TP474>
+          <TP478>631.92</TP478>
+          <B10>46352.71</B10>
+          <B14>46352.71</B14>
+          <B15>46352.71</B15>
+          <B18>11147.71</B18>
+          <B20>1780.00</B20>
+          <B30>1780.00</B30>
+          <B31>2090.20</B31>
+          <B36>4642.50</B36>
+          <B37>46352.71</B37>
+          <B39>1390.58</B39>
+          <B40>3251.92</B40>
+          <B41>3251.92</B41>
+          <B43>3251.92</B43>
+          <B44>812.98</B44>
+          <B45>46352.71</B45>
+          <B47>22652.71</B47>
+          <B48>1132.64</B48>
+          <D1>Fortin</D1>
+          <D2>Sébastien</D2>
+          <D6>1973-02-16</D6>
+          <D11>245462502</D11>
+          <D12>O</D12>
+          <D13>O</D13>
+          <D1402>301</D1402>
+          <D1403>Couture</D1403>
+          <D1501>Jonquière</D1501>
+          <D1502>QC</D1502>
+          <D16>G4A3K6</D16>
+          <D32>3A454520B682351</D32>
+          <D33>1</D33>
+          <F10>64712.26</F10>
+          <F12>47512.26</F12>
+          <F16>47512.26</F16>
+          <F18>17200.00</F18>
+          <F36>17200.00</F36>
+          <F70>17200.00</F70>
+          <F76>17200.00</F76>
+          <F78>2030.00</F78>
+          <F80>20.30</F80>
+          <F82>20.30</F82>
+          <G10>-10900.00</G10>
+          <G11>4900.00</G11>
+          <G12>800.00</G12>
+          <G15>71800.00</G15>
+          <G16>16000.00</G16>
+          <G18>11000.00</G18>
+          <G19>500.00</G19>
+          <G20>10500.00</G20>
+          <G26>21300.00</G26>
+          <G30>21300.00</G30>
+          <G44>21300.00</G44>
+          <G46>4100.00</G46>
+          <G50>4100.00</G50>
+          <G88>25400.00</G88>
+          <G96>25400.00</G96>
+          <G962>25400.00</G962>
+          <G98>12700.00</G98>
+          <P10>47512.26</P10>
+          <P18>47512.26</P18>
+          <P29>47512.26</P29>
+          <P52>46352.71</P52>
+          <P54>46352.71</P54>
+          <P641>47512.26</P641>
+          <P681>10864.00</P681>
+          <P721>8464.00</P721>
+          <P661>10864.00</P661>
+          <P701>2400.00</P701>
+          <P74>10.80</P74>
+          <P761>914.11</P761>
+          <P781>46352.71</P781>
+          <P821>35488.71</P821>
+          <P801>10864.00</P801>
+          <P831>3548.87</P831>
+
+          <Releves>
+
+            <Releve1>
+              <CaseA>
+                <TP101A>47512.26</TP101A>
+              </CaseA>
+              <CaseB>
+                <TP98A>2508.70</TP98A>
+              </CaseB>
+              <CaseD>
+                <TP205A>2037.51</TP205A>
+              </CaseD>
+              <CaseE>
+                <TP451A>4672.89</TP451A>
+              </CaseE>
+              <CaseG>
+                <TP981A>47512.26</TP981A>
+              </CaseG>
+              <CaseH>
+                <TP97>230.09</TP97>
+              </CaseH>
+              <Employeur>
+                <TP101A2>HOTEL JARO</TP101A2>
+              </Employeur>
+            </Releve1>
+
+            <Releve3>
+              <CaseD>
+                <TP130A>4500.00</TP130A>
+              </CaseD>
+            </Releve3>
+
+          </Releves>
+
+        </Informations_financieres>
+      </TP-1D_Particulier>
+    </Formulaire_TP-1D>
+    
+    <InformationsComplementaires>
+      <Annexe_G>
+        <Actions>
+          <GA100>BlackBerry Limited</GA100>
+          <GA102>0807</GA102>
+          <GA103>1170.00</GA103>
+          <GA104>11980.00</GA104>
+          <GA105>90.00</GA105>
+        </Actions>
+        <Obligation>
+          <GA120>Épargne Placement Québec</GA120>
+          <GA121>2000.00</GA121>
+          <GA122>1907</GA122>
+          <GA123>1601</GA123>
+          <GA124>2900.00</GA124>
+          <GA125>2000.00</GA125>
+          <GA126>100.00</GA126>
+        </Obligation>
+        <Biens_Personnel>
+          <GA160>Voilier</GA160>
+          <GA161>1206</GA161>
+          <GA162>23000.00</GA162>
+          <GA163>18000.00</GA163>
+          <GA164>1000.00</GA164>
+        </Biens_Personnel>
+        <Biens_Personnel>
+          <GA160>Ford Mustang Shelby</GA160>
+          <GA161>1004</GA161>
+          <GA162>48800.00</GA162>
+          <GA163>36000.00</GA163>
+          <GA164>800.00</GA164>
+        </Biens_Personnel>
+        <Biens_ressources>
+          <GB460>Enbridge</GB460>
+          <GB461>1000</GB461>
+          <GB463>47210.00</GB463>
+          <GB464>43020.00</GB464>
+          <GB465>90.00</GB465>
+        </Biens_ressources>
+      </Annexe_G>
+    </InformationsComplementaires>
+
+
+  </Declaration>
+
+</ted:TP-1D>
+
+
+
